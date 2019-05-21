@@ -11,6 +11,7 @@ const config = {
   authDomain: "fir-training-61959.firebaseapp.com",
   databaseURL: "https://fir-training-61959.firebaseio.com",
   storageBucket: "fir-training-61959.appspot.com",
+  projectId: 'fir-training-61959',
   messagingSenderId: "1057967227504"
 };
 
